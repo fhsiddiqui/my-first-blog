@@ -1,0 +1,10 @@
+1. mkdir djangogirls
+2. cd djangogirls/
+3. sudo apt-get install python3-venv [required for ubuntu 14.04 & later]
+4. python3 -m venv myenv
+5. source myenv/bin/activate
+6. pip install django==1.8
+7. sudo	apt-get	install	git
+8. [Create a GitHub account at https://github.com/]
+9. [Create a PythonAnywhere	beginner account at https://www.pythonanywhere.com/pricing/]
+10. 
