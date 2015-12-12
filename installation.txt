@@ -51,3 +51,4 @@
 32.	update mysite/urls.py
 33.	create blog/urls.py
 34.	create blog/views.py
+35. create blog/template/blog/post_list.html template
